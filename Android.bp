@@ -1,0 +1,6 @@
+android_app_import {
+    name: "MIUIGalleryGlobal",
+    apk: "proprietary/product/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk",
+    privileged: true,
+    certificate: "PRESIGNED",
+}
