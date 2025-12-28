@@ -1,1 +1,0 @@
-proprietary/product/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk filter=lfs diff=lfs merge=lfs -text
